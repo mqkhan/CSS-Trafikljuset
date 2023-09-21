@@ -1,0 +1,43 @@
+body {
+  background-color: grey;
+  margin: 0 auto;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: white;
+  /* border-width: 20px;
+    border-color: black;
+    border-style: solid; */
+  border: 20px solid black;
+  margin: 20px;
+  padding-top: 10px;
+}
+
+.container {
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+}
+.inner {
+  background-color: rgb(202, 20, 20);
+  border: 10px solid rgb(111, 22, 22);
+  margin-bottom: 5px;
+  width: 100px;
+  height: 100px;
+}
+.inner1 {
+  background-color: rgb(237, 241, 2);
+  border: 10px solid rgb(111, 22, 22);
+  margin: 5px;
+  width: 100px;
+  height: 100px;
+}
+.inner2 {
+  background-color: rgb(69, 229, 16);
+  border: 10px solid rgb(111, 22, 22);
+  margin: 5px;
+  width: 100px;
+  height: 100px;
+}
