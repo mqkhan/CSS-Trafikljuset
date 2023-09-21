@@ -10,19 +10,6 @@ body {
   justify-content: center;
   align-items: center;
 }
-.box {
-  width: 100px;
-  height: 100px;
-  background-color: blue;
-  color: white;
-  /* border-width: 20px;
-    border-color: black;
-    border-style: solid; */
-  border: 20px solid black;
-  margin: 20px;
-  padding-top: 10px;
-}
-
 .container {
   display: inline-block;
   background-color: rgb(255, 255, 255);
