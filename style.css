@@ -15,6 +15,9 @@ body {
   display: flex;
   flex-direction: column;
 }
+h1 {
+  margin: 5px;
+}
 .box1 {
   background-color: rgb(202, 20, 20);
   border: 15px solid rgb(111, 22, 22);
